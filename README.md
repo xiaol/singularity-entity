@@ -1,4 +1,4 @@
 singularity-entity
 ==================
 
-customized memory management system
+customized memory management system for android Dalvik.
